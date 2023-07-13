@@ -12,9 +12,3 @@ This project involves the creation of a Nipype-based preprocessing pipeline for 
 
 ### 3. DTI Analysis
 In this project, we explore diffusion tensor imaging (DTI) data to investigate white matter alterations in brain aging and Alzheimer's disease.
-
-## Repository Structure
-
-- `/data_visualization`: Code, scripts, and resources related to the data visualization project.
-- `/nipype_pipeline`: Nipype preprocessing pipeline implementation and related files.
-- `/dti_analysis`: Code, notebooks, and data for the DTI analysis project.
